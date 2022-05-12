@@ -1,5 +1,5 @@
-project: jacob-clemente/libsndfile
-target: sndfile-info
+project: jacob-clemente/Leanify
+target: leanify
 
 cmds:
-  - cmd: /sndfile-info @@
+  - cmd: /leanify @@
